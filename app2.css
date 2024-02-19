@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(24, 5, 107);
+}
+.container{
+    background-color: yellow;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px;  
+}
+.heading1{
+    text-align: center;
+    margin-top: 10px;
+    padding: 5px;
+    position: relative;
+    bottom: 20px;
+    text-decoration: underline;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#editbutton{
+    background-color: rgb(19, 235, 19);
+}
+#deletebutton{
+    background-color: red;
+}
+.tab{
+    position: relative;
+    bottom: 30px;
+    margin: 10px;
+    text-align: left;
+    
+}
+button{
+    margin: 2px;
+    border-radius: 8px;
+}
+.assign{
+    text-align: center;
+}
+#inputbox{
+    color: black;
+    background-color: grey;
+}
+::placeholder{
+    color: black;
+}
+#addition {
+    background-color: navy;
+    color: pink;
+}
+#update{
+    background-color:  black;
+    color: white;
+}
